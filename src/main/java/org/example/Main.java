@@ -10,8 +10,8 @@ public class Main {
         if (replenishment > 1000) {
             System.out.println(replenishment / bonus + balance + replenishment);
         } else {
-                System.out.println(balance + replenishment);
-            }
+            System.out.println(balance + replenishment);
         }
     }
+}
 
